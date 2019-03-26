@@ -1,0 +1,21 @@
+.mail-list {
+	width : 200px;
+	height : 500px;
+	border: 1px solid #000;
+	display : flex;
+	flex-direction : column;
+}
+
+.mail-card {
+	width : 100%;
+	height: auto;
+	font-size: 15px;
+	font-weight : 400;
+	color: #000;
+	background-color: blue;
+	border-bottom : 2px solid #ccc;
+}
+
+.mail-card span {
+	display: block;
+}
